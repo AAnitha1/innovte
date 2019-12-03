@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="Anitha" section_id="50269ee80765401058abfc289c1ed01f" sys_domain="global" table="x_431521_innovate_innovate" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 00:45:32</sys_created_on>
+            <sys_id>10269ee80765401058abfc289c1ed029</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Anitha" display_value="Anitha" name="x_431521_innovate_innovate" sys_domain="global" view="Default view">50269ee80765401058abfc289c1ed01f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 00:45:32</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Anitha</caption>
+            <header>false</header>
+            <name>x_431521_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-03 00:45:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50269ee80765401058abfc289c1ed01f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Anitha</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_431521_innovate">b5c76e980729001058abfc289c1ed087</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">b5c76e980729001058abfc289c1ed087</sys_scope>
+            <sys_update_name>sys_ui_section_50269ee80765401058abfc289c1ed01f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-03 00:45:32</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Innovate">b5c76e980729001058abfc289c1ed087</application>
+        <file_path/>
+        <instance_id>ba2fceebdbd504d0b847ac44d49619ee</instance_id>
+        <instance_name>dev95411</instance_name>
+        <name>sys_ui_section_50269ee80765401058abfc289c1ed01f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="Anitha" section_id="50269ee80765401058abfc289c1ed01f" sys_domain="global" table="x_431521_innovate_innovate" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 00:45:32</sys_created_on><sys_id>10269ee80765401058abfc289c1ed029</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="Anitha" display_value="Anitha" name="x_431521_innovate_innovate" sys_domain="global" view="Default view">50269ee80765401058abfc289c1ed01f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 00:45:32</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>Anitha</caption><header>false</header><name>x_431521_innovate_innovate</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-12-03 00:45:32</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>50269ee80765401058abfc289c1ed01f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Anitha</sys_name><sys_overrides/><sys_package display_value="Innovate" source="x_431521_innovate">b5c76e980729001058abfc289c1ed087</sys_package><sys_policy/><sys_scope display_value="Innovate">b5c76e980729001058abfc289c1ed087</sys_scope><sys_update_name>sys_ui_section_50269ee80765401058abfc289c1ed01f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-12-03 00:45:32</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1129606413</payload_hash>
+        <record_name>Innovate</record_name>
+        <reverted_from/>
+        <source>f1c76e980729001058abfc289c1ed089</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 00:45:32</sys_created_on>
+        <sys_id>54269ee80765401058abfc289c1ed02a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>16ec9382ea00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 00:45:32</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>dc269ee886654010fcffb46d3b3bca29</update_guid>
+        <update_guid_history>dc269ee886654010fcffb46d3b3bca29:-1129606413</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-12-03 00:45:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>04e473768bfb418080484fc32bfd3900</sys_id>
+        <sys_metadata>50269ee80765401058abfc289c1ed01f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Anitha</sys_name>
+        <sys_package display_value="Innovate" source="x_431521_innovate">b5c76e980729001058abfc289c1ed087</sys_package>
+        <sys_parent display_value="Innovate">bf2aee9c0729001058abfc289c1ed05e</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Innovate">b5c76e980729001058abfc289c1ed087</sys_scope>
+        <sys_scope_delete display_value="">11e54d9866aa4beb8298f20d3edbc919</sys_scope_delete>
+        <sys_update_name>sys_ui_section_50269ee80765401058abfc289c1ed01f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_50269ee80765401058abfc289c1ed01f">54269ee80765401058abfc289c1ed02a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-12-03 00:45:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
